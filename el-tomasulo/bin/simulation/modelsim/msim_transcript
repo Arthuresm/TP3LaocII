@@ -1,0 +1,249 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do tomasulim_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/CDBArbt.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module CDBArbt
+# 
+# Top level modules:
+# 	CDBArbt
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ASRS
+# 
+# Top level modules:
+# 	ASRS
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/program-counter.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module programCounter
+# 
+# Top level modules:
+# 	programCounter
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instr-queue.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module instrQueue
+# 
+# Top level modules:
+# 	instrQueue
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module tomasulim
+# 
+# Top level modules:
+# 	tomasulim
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/ram1pm.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ram1pm
+# 
+# Top level modules:
+# 	ram1pm
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instrRegister.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module instrRegister
+# 
+# Top level modules:
+# 	instrRegister
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/register-file.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module registerFile
+# 
+# Top level modules:
+# 	registerFile
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module UA
+# 
+# Top level modules:
+# 	UA
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/decoder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module decoder
+# 
+# Top level modules:
+# 	decoder
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA_Address.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module UA_Address
+# 
+# Top level modules:
+# 	UA_Address
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module LSRS
+# 
+# Top level modules:
+# 	LSRS
+# 
+vsim +altera -Lf altera_mf_ver -do tomasulim_run_msim_rtl_verilog.do -l msim_transcript -gui work.tomasulim
+# vsim +altera -Lf altera_mf_ver -do tomasulim_run_msim_rtl_verilog.do -l msim_transcript -gui work.tomasulim 
+# Loading work.tomasulim
+# Loading work.ram1pm
+# Loading altera_mf_ver.altsyncram
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# Loading work.programCounter
+# Loading work.instrQueue
+# Loading work.instrRegister
+# Loading work.registerFile
+# Loading work.ASRS
+# Loading work.UA
+# Loading work.decoder
+# Loading work.LSRS
+# Loading work.UA_Address
+# Loading work.CDBArbt
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(314): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'numW'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/register-file.v(1).
+# 
+#         Region: /tomasulim/RF
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(314): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depID'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/register-file.v(1).
+# 
+#         Region: /tomasulim/RF
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(317): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR0'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v(1).
+# 
+#         Region: /tomasulim/Est1
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(317): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR1'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v(1).
+# 
+#         Region: /tomasulim/Est1
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(318): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR0'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v(1).
+# 
+#         Region: /tomasulim/Est2
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(318): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR1'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v(1).
+# 
+#         Region: /tomasulim/Est2
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(319): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR0'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v(1).
+# 
+#         Region: /tomasulim/Est3
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(319): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR1'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v(1).
+# 
+#         Region: /tomasulim/Est3
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(320): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR0'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v(1).
+# 
+#         Region: /tomasulim/Est4
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(320): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR1'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v(1).
+# 
+#         Region: /tomasulim/Est4
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(326): [PCDPC] - Port size (8 or 8) does not match connection size (4) for port 'confirma'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/decoder.v(1).
+# 
+#         Region: /tomasulim/decConfAddSub
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(329): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR0'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v(1).
+# 
+#         Region: /tomasulim/Est5
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(329): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR1'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v(1).
+# 
+#         Region: /tomasulim/Est5
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(330): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR0'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v(1).
+# 
+#         Region: /tomasulim/Est6
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(330): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR1'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v(1).
+# 
+#         Region: /tomasulim/Est6
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(331): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR0'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v(1).
+# 
+#         Region: /tomasulim/Est7
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(331): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR1'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v(1).
+# 
+#         Region: /tomasulim/Est7
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(332): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR0'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v(1).
+# 
+#         Region: /tomasulim/Est8
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(332): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'depR1'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v(1).
+# 
+#         Region: /tomasulim/Est8
+# ** Warning: (vsim-3015) C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v(341): [PCDPC] - Port size (3 or 3) does not match connection size (4) for port 'RD'. The port definition is at: C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/CDBArbt.v(1).
+# 
+#         Region: /tomasulim/Arb
+# do tomasulim_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/CDBArbt.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module CDBArbt
+# 
+# Top level modules:
+# 	CDBArbt
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ASRS
+# 
+# Top level modules:
+# 	ASRS
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/program-counter.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module programCounter
+# 
+# Top level modules:
+# 	programCounter
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instr-queue.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module instrQueue
+# 
+# Top level modules:
+# 	instrQueue
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module tomasulim
+# 
+# Top level modules:
+# 	tomasulim
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/ram1pm.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module ram1pm
+# 
+# Top level modules:
+# 	ram1pm
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instrRegister.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module instrRegister
+# 
+# Top level modules:
+# 	instrRegister
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/register-file.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module registerFile
+# 
+# Top level modules:
+# 	registerFile
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module UA
+# 
+# Top level modules:
+# 	UA
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/decoder.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module decoder
+# 
+# Top level modules:
+# 	decoder
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA_Address.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module UA_Address
+# 
+# Top level modules:
+# 	UA_Address
+# vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/햞ea\ de\ Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module LSRS
+# 
+# Top level modules:
+# 	LSRS
+# 
+do C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/data/macro-files/Tomasulim-EX-03.do
+# .main_pane.wave.interior.cs.body.pw.wf
+# 1
+run -all
+# ** Warning: (vsim-PLI-3412) Memory address read on line 65 of file "memory.ver" is out of bounds specified for readmem command.  (Current address [32], address range [0:31])    : C:/altera/13.0sp1/modelsim_ase/win32aloem/../altera/verilog/src/altera_mf.v(45501)
+#    Time: 0 ps  Iteration: 0  Instance: /tomasulim/instrUnit/altsyncram_component

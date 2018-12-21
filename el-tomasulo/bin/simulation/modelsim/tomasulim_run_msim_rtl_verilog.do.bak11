@@ -1,0 +1,20 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/CDBArbt.v}
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/asrs.v}
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/program-counter.v}
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/instr-queue.v}
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/tomasulim.v}
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/ram1pm.v}
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/instrRegister.v}
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/register-file.v}
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/UA.v}
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/decoder.v}
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/UA_Address.v}
+vlog -vlog01compat -work work +incdir+C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src {C:/Users/arthu/OneDrive/Documentos/Trabalhando2/el-tomasulo/src/LSRS.v}
+

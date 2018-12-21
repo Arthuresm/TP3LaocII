@@ -1,0 +1,254 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\arthu\OneDrive\Documentos\햞ea de Trabalho\ArthurE_MarceloF_pratica3\el-tomasulo\bin\simulation\modelsim
+vASRS
+IJ1kERM]^a^@fbh]HU4IA61
+VizG1:=PUb]H6G9AHZafmh0
+Z1 dC:\Users\arthu\OneDrive\Documentos\햞ea de Trabalho\ArthurE_MarceloF_pratica3\el-tomasulo\bin\simulation\modelsim
+Z2 w1540761929
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v
+L0 1
+Z3 OV;L;10.1d;51
+r1
+31
+Z4 o-vlog01compat -work work -O0
+Z5 !s92 -vlog01compat -work work {+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src} -O0
+n@a@s@r@s
+!i10b 1
+!s100 QObTHzPK5X224mYQf?fVQ3
+!s85 0
+!s108 1540762136.743000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/asrs.v|
+!s101 -O0
+vCDBArbt
+I7c>RPi6^`Ta=?02Ufi`MI2
+VjVcKeT:NCkbF@49TcCPC_3
+R1
+R2
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/CDBArbt.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/CDBArbt.v
+L0 1
+R3
+r1
+31
+R4
+n@c@d@b@arbt
+R5
+!i10b 1
+!s100 6CfcS^gfLA6FP<BaQR6jN3
+!s85 0
+!s108 1540762136.524000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/CDBArbt.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/CDBArbt.v|
+!s101 -O0
+vdecoder
+Im1PPdcIh^N``;@n[bc1S_2
+VSlQ>eOZXj9E6d;5Ud18FR2
+R1
+R2
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/decoder.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/decoder.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 >A5FR@@1Hb3d_]`OBA>]f1
+!s85 0
+!s108 1540762139.001000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/decoder.v|
+!s101 -O0
+vinstrQueue
+I9iG?[0V;bB2WOWMoFI5<00
+VV79^zfj_<011PYRS<Cai?1
+R1
+R2
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instr-queue.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instr-queue.v
+L0 1
+R3
+r1
+31
+R4
+R5
+ninstr@queue
+!i10b 1
+!s100 `mE>P^D^abIYcG?=A`iKj1
+!s85 0
+!s108 1540762137.176000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instr-queue.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instr-queue.v|
+!s101 -O0
+vinstrRegister
+I;2P=b0fhcg7BeH?i1=zB40
+VYiBAbMHUiSiFP[4RVmBDz2
+R1
+R2
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instrRegister.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instrRegister.v
+L0 1
+R3
+r1
+31
+R4
+R5
+ninstr@register
+!i10b 1
+!s100 :7BRGN_6FHaOS3>Z7DjM]2
+!s85 0
+!s108 1540762138.016000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instrRegister.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/instrRegister.v|
+!s101 -O0
+vLSRS
+!i10b 1
+!s100 hCdQjQNk0XUkFWobZMHLz2
+I6NR3B30;e37WH<`]`GMLW0
+V1LjKZzE;bKlAal3l34@0^3
+R1
+R2
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1540762139.439000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/LSRS.v|
+!s101 -O0
+R4
+R5
+n@l@s@r@s
+vprogramCounter
+IPCS0IifM0Mh]bdgJTiWMZ1
+V:kLFC9^ED@fdoR:8obzeJ1
+R1
+R2
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/program-counter.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/program-counter.v
+L0 1
+R3
+r1
+31
+R4
+R5
+nprogram@counter
+!i10b 1
+!s100 hV;;Cj:C`=W1G8cTHUR`M3
+!s85 0
+!s108 1540762136.949000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/program-counter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/program-counter.v|
+!s101 -O0
+vram1pm
+IeD^CjHkO[E0`:z:]e>^oM2
+Vf?aaQ:79lZ^I4N1fRzDhk0
+R1
+w1540761912
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/ram1pm.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/ram1pm.v
+L0 39
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 fGi:JV>bOEQXcIS6MPKTZ2
+!s85 0
+!s108 1540762137.739000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/ram1pm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/ram1pm.v|
+!s101 -O0
+vregisterFile
+If]IaXPV]3fj?lK5GPmgkW3
+V@c2WQ[9zEQ4k^4`QU0o_>2
+R1
+R2
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/register-file.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/register-file.v
+L0 1
+R3
+r1
+31
+R4
+R5
+nregister@file
+!i10b 1
+!s100 B9_iLBzFn69eJU412za<G2
+!s85 0
+!s108 1540762138.358000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/register-file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/register-file.v|
+!s101 -O0
+vtomasulim
+ILZG<56HhiMm7RIji:11ED2
+Vng1AohP3:`9hi;E_]9D:H2
+R1
+w1540762054
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 I>WRHU1k`^g[3S7RIeSa50
+!s85 0
+!s108 1540762137.404000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/tomasulim.v|
+!s101 -O0
+vUA
+IZeI39kUTIbP6>5c_2KH]K2
+VJ@=mUk:T@A0eU;XlnF:Xe2
+R1
+R2
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA.v
+L0 1
+R3
+r1
+31
+R4
+R5
+n@u@a
+!i10b 1
+!s100 ?[E;<ai[<hzWRYM:d4VgX3
+!s85 0
+!s108 1540762138.737000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA.v|
+!s101 -O0
+vUA_Address
+IUR97PB]]OPI1LZ=CaGBol2
+VF`Eg[jAW1dGH_IYWLO];h0
+R1
+R2
+8C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA_Address.v
+FC:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA_Address.v
+L0 1
+R3
+r1
+31
+R4
+R5
+n@u@a_@address
+!i10b 1
+!s100 kUdj]T[U`z:<hD;6e77921
+!s85 0
+!s108 1540762139.217000
+!s107 C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA_Address.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src|C:/Users/arthu/OneDrive/Documentos/햞ea de Trabalho/ArthurE_MarceloF_pratica3/el-tomasulo/src/UA_Address.v|
+!s101 -O0

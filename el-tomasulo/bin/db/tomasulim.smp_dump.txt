@@ -1,0 +1,69 @@
+
+State Machine - |tomasulim|step
+Name step.110 step.101 step.100 step.011 step.010 step.001 step.000 
+step.000 0 0 0 0 0 0 0 
+step.001 0 0 0 0 0 1 1 
+step.010 0 0 0 0 1 0 1 
+step.011 0 0 0 1 0 0 1 
+step.100 0 0 1 0 0 0 1 
+step.101 0 1 0 0 0 0 1 
+step.110 1 0 0 0 0 0 1 
+
+State Machine - |tomasulim|UA_Address:loadStore|cont
+Name cont.01 
+cont.00 0 
+cont.01 1 
+
+State Machine - |tomasulim|LSRS:Est8|cont
+Name cont.00 cont.10 cont.01 
+cont.00 0 0 0 
+cont.01 1 0 1 
+cont.10 1 1 0 
+
+State Machine - |tomasulim|LSRS:Est7|cont
+Name cont.00 cont.10 cont.01 
+cont.00 0 0 0 
+cont.01 1 0 1 
+cont.10 1 1 0 
+
+State Machine - |tomasulim|LSRS:Est6|cont
+Name cont.00 cont.10 cont.01 
+cont.00 0 0 0 
+cont.01 1 0 1 
+cont.10 1 1 0 
+
+State Machine - |tomasulim|LSRS:Est5|cont
+Name cont.00 cont.10 cont.01 
+cont.00 0 0 0 
+cont.01 1 0 1 
+cont.10 1 1 0 
+
+State Machine - |tomasulim|UA:addSub|cont
+Name cont.00 cont.10 cont.01 
+cont.00 0 0 0 
+cont.01 1 0 1 
+cont.10 1 1 0 
+
+State Machine - |tomasulim|ASRS:Est4|cont
+Name cont.00 cont.10 cont.01 
+cont.00 0 0 0 
+cont.01 1 0 1 
+cont.10 1 1 0 
+
+State Machine - |tomasulim|ASRS:Est3|cont
+Name cont.00 cont.10 cont.01 
+cont.00 0 0 0 
+cont.01 1 0 1 
+cont.10 1 1 0 
+
+State Machine - |tomasulim|ASRS:Est2|cont
+Name cont.00 cont.10 cont.01 
+cont.00 0 0 0 
+cont.01 1 0 1 
+cont.10 1 1 0 
+
+State Machine - |tomasulim|ASRS:Est1|cont
+Name cont.00 cont.10 cont.01 
+cont.00 0 0 0 
+cont.01 1 0 1 
+cont.10 1 1 0 

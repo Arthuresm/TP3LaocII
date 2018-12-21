@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="tomasulim">
+		<CBX_INST_ENTRY INSTANCE_NAME="|tomasulim|ram1pm:instrUnit|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_jpe1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
